@@ -1,3 +1,6 @@
+Dashboard Screenshot :
+![ALT text](https://github.com/shreysisodiya/Powerbi-and-Excel-dashboard-/blob/main/Uber%20dataset%20and%20Powerbi%20file/Screenshot%202026-05-07%20191803.png)
+
 1. Project Title :
 Uber Operations & Performance Analytics Dashboard
 
@@ -15,8 +18,7 @@ Quality Control: The need to monitor both driver and customer satisfaction level
 
 Trend Tracking: Difficulty in visualizing how demand fluctuates over quarters to plan for seasonal scaling.
 
-Dashboard Screenshot :
-![ALT text](https://github.com/shreysisodiya/Powerbi-and-Excel-dashboard-/blob/main/Uber%20dataset%20and%20Powerbi%20file/Screenshot%202026-05-07%20191803.png)
+
 
 <a href = "https://github.com/shreysisodiya/Powerbi-and-Excel-dashboard-/blob/main/Uber%20dataset%20and%20Powerbi%20file/Screenshot%202026-05-07%20191803.png"> View Dashboard </a>
 
