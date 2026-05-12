@@ -1,3 +1,6 @@
+Dashboard Screenshot :
+![ALT text](https://github.com/shreysisodiya/Powerbi-and-Excel-dashboard-/blob/main/Customer_Behaviour_analysis/Screenshot%202026-05-12%20112522.png)
+
 Business Problem Statement
 A leading retail company wants to better understand its customers’ shopping behavior in order to improve sales, customer satisfaction, and long-term loyalty. The management team has noticed changes in purchasing patterns across demographics, product categories, and sales channels (online vs. offline). They are particularly interested in uncovering which factors, such as discounts, reviews, seasons, or payment preferences, drive consumer decisions and repeat purchases.
 You are tasked with analyzing the company’s consumer behavior dataset to answer the following overarching business question:
